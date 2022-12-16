@@ -1,10 +1,19 @@
+## Hi, I'm Md. Rasel Hossain 👋
+<p>
+👑 I am Software Developer <br> 
+🖊️ Love to write code <br> 
+🎤 Like to share my knowledge </p> 
 
-![Software Developer](https://scontent.fdac20-1.fna.fbcdn.net/v/t1.6435-9/34367407_1518106304984441_7327291009581187072_n.jpg?stp=dst-jpg_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeFnZSMiHgf4SjhKeKvPkR0aLmU5In8vGZAuZTkify8ZkBc2UgEj58jAVPxMrsU19pkPEQ6TQ-Lt6J_UQyn_iWet&_nc_ohc=KcmmiU0gCdcAX97kJny&_nc_ht=scontent.fdac20-1.fna&oh=00_AfBwzUvzZBSMwG44KWUmkyLtRsy_I-92p703PG_EnhOAPw&oe=63C36ADB)
-### Hi there 👋, I'm Md. Rasel Hossain
-#### Software Developer
-
+## 🚀 About Me
 Hi, This is Md. Rasel Hossain working as a professional Web Programmer. Web Design, Web Development & Web Based Software Development.
 Excellent full stack developer with a solid programming background and deep understanding of web technologies, Web Development. Experience in developing beautiful applications that just work. Passionate with PHP, Laravel, CodeIgniter, JavaScript, JQuery, Ajax, & Json,
+
+## 👨‍💻 Skills & Experiance: 
+✅ WordPress <br> 
+✅ JavaScript <br>
+✅ PHP <br>
+✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+✅ Photoshop / Illustrator <br>
 
 Skills: Laravel, Codeigniter, OOP, PHP, JS, MySQL, REST API, SOAP API, Payment Gateway, Json Ajax, UI, MVC, HMVC, HTML-5, CSS-3, Bootstrap, Problem Solving, Composer, SMS-API, Google-API
 
