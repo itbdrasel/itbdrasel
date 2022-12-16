@@ -48,12 +48,42 @@ requirement andmaintain the existingsystem.
 
 
 
+## 📊 Stats: 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itbdrasel&show_icons=true&count_private=true)  
+<p align="center">
+<span>
+	<!--
+	<img width="414px" src="https://github-readme-stats.vercel.app/api?username=itbdrasel&include_all_commits=true&count_private=true&hide_border=true&theme=dark&show_icons=true" />
+	-->
+	<img width="414px" src="https://github-readme-stats.vercel.app/api?username=itbdrasel&include_all_commits=false&count_private=true&hide_border=true&theme=dark&show_icons=true" />
+</span>
+<span>
+	<img width="414px" src="https://github-readme-streak-stats.herokuapp.com/?user=itbdrasel&include_all_commits=true&hide_border=true&theme=dark"/>
+</span>
+</p>
 
 
+<!-- 
+<p align="center">
+	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itbdrasel&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=true&theme=dark&hide=">
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=itbdrasel)  
+ 
+<h4 align="center">Lines of Code per language in the last year only</h4>
+<p align="center">
+	<img width="450em" src="https://api.githubtrends.io/user/svg/itbdrasel/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
+</p> 
+
+# Projects
+
+## Full-stack
+<p align="center">
+	<a href="https://github.com/deltanode/responsive-ecommerce-website">
+		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=itbdrasel&repo=responsive-ecommerce-website&hide_border=true&theme=dark">
+	</a>
+</p>
+ -->
+
 
 ![Profile views](https://gpvc.arturio.dev/itbdrasel)  
 
