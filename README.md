@@ -8,20 +8,12 @@
 Hi, This is Md. Rasel Hossain working as a professional Web Programmer. Web Design, Web Development & Web Based Software Development.
 Excellent full stack developer with a solid programming background and deep understanding of web technologies, Web Development. Experience in developing beautiful applications that just work. Passionate with PHP, Laravel, CodeIgniter, JavaScript, JQuery, Ajax, & Json,
 
-## 👨‍💻 Skills & Experiance: 
-✅ WordPress <br> 
-✅ JavaScript <br>
-✅ PHP <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap <br>
+## 👨‍💻 Skills: 
+✅ PHP / OOP/ Laravel / Codeigniter / MySQL<br>
+✅ JavaScript / jQuery / Ajax Json / <br>
+✅ REST API / Payment Gateway /  Google-API / SMS-API / UI / MVC /HMVC<br>
+✅ HTML5 / CSS3 / Bootstrap <br>
 ✅ Photoshop / Illustrator <br>
-
-Skills: Laravel, Codeigniter, OOP, PHP, JS, MySQL, REST API, SOAP API, Payment Gateway, Json Ajax, UI, MVC, HMVC, HTML-5, CSS-3, Bootstrap, Problem Solving, Composer, SMS-API, Google-API
-
-- 🔭 I’m currently working on TOS Technology Ltd 
-- 🌱 I’m currently learning  JavaScript 
-
-
-
 
 
 
