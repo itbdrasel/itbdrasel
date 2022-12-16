@@ -8,6 +8,35 @@
 Hi, This is Md. Rasel Hossain working as a professional Web Programmer. Web Design, Web Development & Web Based Software Development.
 Excellent full stack developer with a solid programming background and deep understanding of web technologies, Web Development. Experience in developing beautiful applications that just work. Passionate with PHP, Laravel, CodeIgniter, JavaScript, JQuery, Ajax, & Json,
 
+## 💼 Experience: 
+> ####  __Tos Technology Limited__
+> _Software Developer_<br>
+> Mohammadpur, Dhaka <br>
+> JUN 2020 - PRESENT<br>
+> Responsibility: Collaborate with agile team to design, develop,
+and architect scalable software and explore new ideas &
+technologies.
+
+> ####  __Communicate Technology LLC__
+> _Software Developer_<br>
+> Kawran Bazar, Dhaka <br>
+> NOV 2019 - APR 2020<br>
+> Responsibility: Collaborate with agile team to
+design, develop, and architect scalable software
+and explore new ideas & technologies.
+
+> ####  __Agemark Technology Limited__
+> _Software Developer_<br>
+> Badda, Dhaka <br>
+> FEB 2017 - OCT 2019<br>
+> Responsibility:Developnewmodules asper
+requirement andmaintain the existingsystem.
+
+> ####  __Print Aid Press__
+> _Software Developer_<br>
+> Mohakhali, Dhaka <br>
+> DEC 2015 - JAN 2017<br>
+
 ## 👨‍💻 Skills: 
 ✅ PHP / OOP/ Laravel / Codeigniter / MySQL<br>
 ✅ JavaScript / jQuery / Ajax Json / <br>
@@ -37,3 +66,4 @@ Excellent full stack developer with a solid programming background and deep unde
 
 ## 📧 For Business Inquiries 
 ✅  ► raselhossainb@gmail.com
+✅  ► +880-01911-054-866
