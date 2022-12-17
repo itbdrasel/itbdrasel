@@ -1,3 +1,4 @@
+
 <h1 align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Distressed&size=31&pause=1000&color=0096FF&center=true&vCenter=true&width=435&lines=.....💫+🪐+Hi......+I+am+Rasel+Hossain💫+🪐+....." alt="Typing SVG" /></a> </h1>
 👑 I am Software Developer <br> 
 🖊️ Love to write code <br> 
@@ -52,12 +53,11 @@ requirement andmaintain the existingsystem.
 <p align="center">
 <span>
 	<!--
-	<img width="414px" src="https://github-readme-stats.vercel.app/api?username=itbdrasel&include_all_commits=true&count_private=true&hide_border=true&theme=dark&show_icons=true" />
 	-->
-	<img width="414px" src="https://github-readme-stats.vercel.app/api?username=itbdrasel&include_all_commits=false&count_private=true&hide_border=true&theme=dark&show_icons=true" />
+	<img width="414px" src="https://github-readme-stats.vercel.app/api?username=itbdrasel&include_all_commits=true&count_private=true&hide_border=true&theme=blue-green&show_icons=true&custom_title=My%20Stats&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9" />
 </span>
 <span>
-	<img width="414px" src="https://github-readme-streak-stats.herokuapp.com/?user=itbdrasel&include_all_commits=true&hide_border=true&theme=dark"/>
+	<img width="414px" src="https://github-readme-streak-stats.herokuapp.com/?user=itbdrasel&include_all_commits=true&hide_border=true&theme=blue-green&show_icons=true&custom_title=My%20Stats&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9"/>
 </span>
 </p>
 
